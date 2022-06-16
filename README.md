@@ -64,7 +64,7 @@ cv2.imshow("Dilated Image",dilationImage)
 ### Output:
 
 ### Display the input Image
-![](vi1.jpg)
+![](vi1.jpeg)
 
 ### Display the Eroded Image
 ![](vi2.jpeg)
