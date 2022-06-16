@@ -24,7 +24,6 @@ To implement Erosion and Dilation using Python and OpenCV.
  
 ## Program:
 
-``` Python
 # Import the necessary packages
 
 import cv2
@@ -32,7 +31,7 @@ import numpy
 
 
 # Create the Text using cv2.putText
-
+~~~
 NameImage = numpy.zeros((100,1000),dtype='uint8')
 font = cv2.FONT_ITALIC
 cv2.putText(NameImage,'vivek',(50,70),font,2,(255),5,cv2.LINE_4)
@@ -62,7 +61,7 @@ cv2.imshow("Name Image",NameImage)
 cv2.imshow("Erode Image",erodeImage)
 cv2.imshow("Dilated Image",dilationImage)
 ~~~
-## Output:
+### Output:
 
 ### Display the input Image
 ![](vi1.jpg)
