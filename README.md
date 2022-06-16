@@ -65,13 +65,13 @@ cv2.imshow("Dilated Image",dilationImage)
 ## Output:
 
 ### Display the input Image
-![vi1](https://user-images.githubusercontent.com/94525701/174118378-a755c82d-c3e6-4015-984d-80e80089b22f.jpeg)
+![](vi1.jpg)
 
 ### Display the Eroded Image
-![vi2](https://user-images.githubusercontent.com/94525701/174118410-a77f948d-503b-467e-b943-f04d54632b86.jpeg)
+![](vi2.jpeg)
 
 ### Display the Dilated Image
-![vi3](https://user-images.githubusercontent.com/94525701/174118469-4958bb7b-8ca3-487c-a396-96aceef0b4db.jpeg)
+![](vi3.jpeg)
 
 
 ## Result
