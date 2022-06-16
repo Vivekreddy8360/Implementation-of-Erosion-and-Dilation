@@ -61,6 +61,7 @@ dilationImage = cv2.dilate(NameImage,kernel1)
 cv2.imshow("Name Image",NameImage)
 cv2.imshow("Erode Image",erodeImage)
 cv2.imshow("Dilated Image",dilationImage)
+~~~
 ## Output:
 
 ### Display the input Image
